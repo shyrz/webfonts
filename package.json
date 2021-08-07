@@ -2,7 +2,8 @@
   "name": "@shyrz/webfonts",
   "version": "1.1.0",
   "description": "Some Webfonts",
-  "main": "",
+  "main": "index.js",
+  "jsdelivr": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
